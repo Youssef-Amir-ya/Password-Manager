@@ -1,0 +1,3 @@
+pip-installable libraries:
+termcolor
+pyperclip
